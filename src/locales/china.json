@@ -1,0 +1,22 @@
+{
+    "login.chinese": "Chinese",
+    "login.page": "登录",
+    "login.page.placeholder.email": "电子邮件或电话号码",
+    "login.page.placeholder.password": "密码",
+    "login.page.or.something": "OR",
+    "login.page.using.login.code": "使用登录码",
+    "login.page.forgot.password": "忘记密码？",
+    "login.page.forgot.checkbox": "记住我",
+    "login.page.new.user": "Netflix 新手？",
+    "login.page.register": "立即注册。",
+    "login.page.hint": "此页面受 Google reCAPTCHA 保护，以确保您不是机器人。",
+    "login.page.learn.more": "了解更多。",
+    "login.page.learn.more.content": "Google reCAPTCHA 收集的信息受 Google 隐私政策和服务条款的约束，用于提供、维护和改进 reCAPTCHA 服务以及一般安全目的 (谷歌不将其用于个性化广告）.",
+    "login.page.footer.contact": "有疑问吗？联系我们。",
+    "login.page.footer.question": "常见问题",
+    "login.page.footer.cookie.option": "Cookie 选项",
+    "login.page.footer.support.center": "帮助中心",
+    "login.page.footer.enterprise.infomation": "企业信息",
+    "login.page.footer.policy": "使用条款",
+    "login.page.footer.more.personal.role": "隐私"
+}

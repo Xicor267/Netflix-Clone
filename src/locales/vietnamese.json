@@ -1,0 +1,22 @@
+{
+    "login.vietnamese": "Việt Nam",
+    "login.page": "Đăng nhập",
+    "login.page.placeholder.email": "Email hoặc số điện thoại",
+    "login.page.placeholder.password": "Mật khẩu",
+    "login.page.or.something": "HOẶC",
+    "login.page.using.login.code": "Sử dụng mã đăng nhập",
+    "login.page.forgot.password": "Bạn quên mật khẩu?",
+    "login.page.forgot.checkbox": "Ghi nhớ tôi",
+    "login.page.new.user": "Bạn mới tham gia Netflix?",
+    "login.page.register": "Đăng ký ngay.",
+    "login.page.hint": "Trang này được Google reCAPTCHA bảo vệ để đảm bảo bạn không phải là robot.",
+    "login.page.learn.more": "Tìm hiểu thêm.",
+    "login.page.learn.more.content": "Thông tin do Google reCAPTCHA thu thập phải tuân theo Chính sách quyền riêng tư và Điều khoản dịch vụ của Google, đồng thời được sử dụng để cung cấp, duy trì và cải thiện dịch vụ reCAPTCHA cũng như cho các mục đích bảo mật chung (thông tin này không được Google sử dụng cho quảng cáo được cá nhân hóa).",
+    "login.page.footer.contact": "Bạn có câu hỏi? Liên hệ với chúng tôi.",
+    "login.page.footer.question": "Câu hỏi thường gặp",
+    "login.page.footer.cookie.option": "Tùy chọn cookie",
+    "login.page.footer.support.center": "Trung tâm trợ giúp",
+    "login.page.footer.enterprise.infomation": "Thông tin doanh nghiệp",
+    "login.page.footer.policy": "Điều khoản sử dụng",
+    "login.page.footer.more.personal.role": "Quyền riêng tư"
+}

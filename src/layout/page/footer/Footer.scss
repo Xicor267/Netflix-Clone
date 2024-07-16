@@ -1,0 +1,26 @@
+.footer-container {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7) 0%, rgb(0, 0, 0) 20%);
+    color: rgb(255, 255, 255);
+    padding-left: 150px;
+    padding-right: 150px;
+    // height: 200px;
+    // max-width: calc(83.33333333333334% - (3rem * 2));
+    color: rgba(255, 255, 255, 0.7);
+    // margin: auto;
+    font-size: 1rem;
+    font-weight: 400;
+
+    .footer-item {
+        .footer-contact {
+            margin: 16px 0 5px 12px;
+        }
+        .footer-list {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            gap: 16px;
+            row-gap: 16px;
+            margin: 0.75rem 0;
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "login.japanese": "Japanese",
+    "login.page": "ログイン",
+    "login.page.placeholder.email": "電子メールまたは電話番号",
+    "login.page.placeholder.password": "パスワード",
+    "login.page.or.something": "または",
+    "login.page.using.login.code": "ログイン コードを使用する",
+    "login.page.forgot.password": "パスワードをお忘れですか?",
+    "login.page.forgot.checkbox": "覚えておいてください",
+    "login.page.new.user": "Netflix は初めてですか?",
+    "login.page.register": "今すぐサインアップしてください。",
+    "login.page.hint": "ボットではないことを保証するために、このページは Google reCAPTCHA によって保護されています。",
+    "login.page.learn.more": "詳細をご覧ください。",
+    "login.page.learn.more.content": "Google reCAPTCHA によって収集された情報は、Google プライバシー ポリシーと利用規約の対象となり、reCAPTCHA サービスの提供、維持、改善と一般的なセキュリティ目的に使用されます ( Google によるパーソナライズされた広告には使用されません）。",
+    "login.page.footer.contact": "ご質問がありましたらお問い合わせください。",
+    "login.page.footer.question": "よくある質問",
+    "login.page.footer.cookie.option": "Cookie オプション",
+    "login.page.footer.support.center": "ヘルプセンター",
+    "login.page.footer.enterprise.infomation": "企業情報",
+    "login.page.footer.policy": "利用規約",
+    "login.page.footer.more.personal.role": "プライバシー"
+}

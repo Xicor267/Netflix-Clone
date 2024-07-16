@@ -1,0 +1,22 @@
+{
+    "login.english": "English",
+    "login.page": "Login",
+    "login.page.placeholder.email": "Email or phone number",
+    "login.page.placeholder.password": "Password",
+    "login.page.or.something": "OR",
+    "login.page.using.login.code": "Use login code",
+    "login.page.forgot.password": "Forgot your password?",
+    "login.page.forgot.checkbox": "Remember me",
+    "login.page.new.user": "New to Netflix?",
+    "login.page.register": "Sign up now.",
+    "login.page.hint": "This page is protected by Google reCAPTCHA to ensure you're not a bot.",
+    "login.page.learn.more": "Learn more.",
+    "login.page.learn.more.content": "The information collected by Google reCAPTCHA is subject to the Google Privacy Policy and Terms of Service, and is used for providing, maintaining, and improving the reCAPTCHA service and for general security purposes (it is not used for personalized advertising by Google).",
+    "login.page.footer.contact": "Have questions? Contact us.",
+    "login.page.footer.question": "Frequently asked questions",
+    "login.page.footer.cookie.option": "Cookie options",
+    "login.page.footer.support.center": "Help Center",
+    "login.page.footer.enterprise.infomation": "Enterprise information",
+    "login.page.footer.policy": "Terms of use",
+    "login.page.footer.more.personal.role": "Privacy"
+}
